@@ -1,0 +1,1 @@
+{"name":"Jenkins-for-heroku","body":"### Deploy Jenkins to Heroku\r\n\r\n```\r\n$ git clone git://github.com/kiy0taka/jenkins-for-heroku.git\r\n$ cd jenkins-for-heroku\r\n$ heroku create --stack cedar\r\n$ git push heroku master\r\n```","tagline":"Jenkins on Heroku","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
